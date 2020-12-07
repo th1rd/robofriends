@@ -1,7 +1,9 @@
 # robofriends
-Tutorial for React To run the project:
+<p> Tutorial for React To run the project: </p>
 
-Clone this repo
-Run npm install
-Run npm start
+<ol>
+  <li>Clone this repo </li>
+  <li>Run npm install /<li>
+  <li>Run npm start </li>
+<ol>
 
